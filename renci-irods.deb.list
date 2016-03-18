@@ -1,0 +1,3 @@
+deb https://packages.irods.org/apt/pool/ precise stable
+deb https://packages.irods.org/apt/pool/ trusty stable
+deb https://packages.irods.org/apt/pool/ xenial stable
